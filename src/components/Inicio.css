@@ -1,0 +1,12 @@
+
+/* Card Hover Effects */
+.container .custom-card:hover .card-img-top,
+.container .custom-card:hover .img-container,
+.container .custom-card:hover .card-body {
+    background-color: #5C6BC0;
+}
+
+.container .custom-card:hover .card-footer {
+    background-color: rgb(0, 0, 0);
+    color: #ffffff;
+}
